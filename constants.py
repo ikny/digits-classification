@@ -1,0 +1,4 @@
+D_LAYER = 8**2
+H_LAYER = 1000
+K_LAYER = 10
+ALPHA = 0.01
